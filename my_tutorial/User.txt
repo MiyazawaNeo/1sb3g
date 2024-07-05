@@ -1,0 +1,10 @@
+user1:Kenken
+email:kenken@gmail.com
+password:kenken123
+
+user2:kare
+email:kare@gmail.com
+password:kare45678
+
+user3:Jiji
+password:jiji1234
